@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "413471605092",
+    "firebase_url": "https://hoaiphong-4cfd9-default-rtdb.firebaseio.com",
+    "project_id": "hoaiphong-4cfd9",
+    "storage_bucket": "hoaiphong-4cfd9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413471605092:android:6085ea90bb72f3c157ba71",
+        "android_client_info": {
+          "package_name": "hohoaiphong_19110262.hcmute.edu.vn.chapappandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413471605092-e5bifs537r84v5ouln7cvvmcunuf3437.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlip2T3jU5Ffd5AVx_UYFXSfX7gR9cV88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413471605092-e5bifs537r84v5ouln7cvvmcunuf3437.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
